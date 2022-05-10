@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<!--
+
 **Slithur/Slithur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -19,4 +19,4 @@ Why i like to code
 My email is Joali218@gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
