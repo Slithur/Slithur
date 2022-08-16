@@ -1,9 +1,8 @@
 ### Hi there 👋
 
 
-**Slithur* is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-
+- My name is Mahamed Aden ...
 - 🌱 I’m currently learning ...
 Java, C++
 - 👯 I’m looking to collaborate on ...
