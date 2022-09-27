@@ -12,5 +12,3 @@ Trying to practice to code more
 Why i like to code
 - 📫 How to reach me: my email
 My email is Joali218@gmail.com
--
-
